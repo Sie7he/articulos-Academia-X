@@ -76,11 +76,13 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   text-align: center;
   overflow: hidden;
+  cursor: pointer;
   
   
 }
 .card img:hover {
   transform: scale(1.05);
+ 
 }
 .card-body {
  position: sticky;
